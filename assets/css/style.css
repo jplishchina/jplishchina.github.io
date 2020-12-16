@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   position: relative;
   color: #fff;
-  padding: 20px 30px 30px 30px;
+  padding: 20px 20px 30px 30px;
   transition: 0.3s;
   font-size: 25px;
   font-weight: 500;
@@ -321,8 +321,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo{
   text-align:left;
-  margin-left:-80px;
-  padding-right:50px;
+  
+  
   
 }
 
