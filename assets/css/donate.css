@@ -1,0 +1,54 @@
+
+
+.col-25 {
+-ms-flex: 25%;
+flex: 25%;
+padding: 0 16px;
+}
+
+.col-50 {
+-ms-flex: 50%;
+flex: 50%;
+padding: 0 16px;
+}
+
+.col-75 {
+-ms-flex: 75%; 
+flex: 75%;
+padding: 0 16px;
+}
+
+
+label {
+margin-bottom: 10px;
+display: block;
+}
+
+.icon-container {
+margin-bottom: 20px;
+padding: 7px 0;
+font-size: 30px;
+}
+
+
+@media (max-width: 768px) {
+.col-25 {
+  margin-bottom: 20px;
+}
+}
+
+.paypal{
+  font-size:60px;
+}
+
+.venmo{
+    max-width: 40px;
+}
+
+.venmobtn{
+    background-color:#ffffff;
+}
+
+.applebtn{
+    font-size: 26px;
+}

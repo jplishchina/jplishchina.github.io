@@ -1,0 +1,29 @@
+#firstN{
+    width: 40em;
+    justify-content:center;
+    font-family: 'Barlow Condensed', sans-serif; 
+    font-size:18px;
+}
+
+#lastN{
+    width: 40em;
+    font-family: 'Barlow Condensed', sans-serif; 
+    font-size:18px;
+}
+
+#email{
+    width: 40em;
+    font-family: 'Barlow Condensed', sans-serif; 
+    font-size:18px;
+}
+
+#message{
+    width: 40em;
+    font-family: 'Barlow Condensed', sans-serif; 
+    font-size:18px;
+}
+
+.label1{
+    font-family: 'Barlow Condensed', sans-serif; 
+    font-size:18px;
+}
