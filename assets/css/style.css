@@ -270,11 +270,12 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   cursor: pointer;
   text-align: center;
+  display: inline-block;
 }
 
 @media screen and (max-width: 768px) {
  .HavenLogo {
-display: block;
+display: inline-block;
 }
 }
 
@@ -311,7 +312,7 @@ display: block;
 
 .mobile-nav a {
   padding-left:50px;
-  display: block;
+  display: inline-block;
   position: relative;
   color: #fff;
   padding: 10px 20px;
@@ -341,7 +342,7 @@ display: block;
 }
 
 .mobile-nav .drop-down ul {
-  display: none;
+  display: inline-block;
   overflow: hidden;
 }
 
@@ -358,7 +359,7 @@ display: block;
   position: fixed;
   background: rgba(28, 28, 28, 0.6);
   overflow: hidden;
-  display: none;
+  display: inline-block;
   transition: ease-in-out 0.2s;
 }
 
