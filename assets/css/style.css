@@ -123,7 +123,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .HavenLogo{
     background-image: linear-gradient(to left, violet, rgb(117, 43, 170), rgb(51, 51, 250), green, yellow, orange, red);
-    -webkit-background-clip: text;
+  -moz-background-clip:text;  
+  -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     
     margin-bottom:30px;
