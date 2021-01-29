@@ -20,3 +20,17 @@ justify-content:center;
 .cardbg{
    background-color:black;
 }
+
+@media (max-width:768px)
+{
+    .mel{
+        max-width:100%;
+    }
+}
+
+@media (max-width:768px)
+{
+    .jenny{
+        max-width:100%;
+    }
+}
